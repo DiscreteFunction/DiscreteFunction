@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DiscreteFunction
 - 👀 I’m interested learning full stack programming and meeting programmers
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on a lottery gambling app I want to write
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me: wkwjrlandman@gmail.com 
 
 <!---
